@@ -1,0 +1,6 @@
+#nav {
+    background: rgb(0, 0, 0);
+}
+.active {
+    color: #f00;
+}  
