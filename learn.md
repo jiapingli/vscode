@@ -88,3 +88,15 @@ alt+shift+f:格式化代码
 git教程请见另一篇 [git使用总结]()
 ### 3.1vscode使用git
 点击活动栏的分支管理器：
+1.点击+暂存更改还没有提交
+2.点击对勾符号提交，输入提交信息
+3.点击...>点击推送
+##4.插件安装
+1.css Peek: html和css关联
+2.Prettier:代码格式化
+3.Icon Fonts :图标集，只是作为一个提示工具，要想用图标还得自己去引入图标集的css
+4.Auto Rename Tag:自动修改标签
+5.html Boilerplate: HTML模板
+6.color Info :颜色提示
+7.Auto Close Tag自动闭合
+8.HTML CSS Support :html中css class的智能提示
